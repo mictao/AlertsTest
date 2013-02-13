@@ -11,6 +11,3 @@
 @interface ViewController : UIViewController
 
 @end
-
-@interface AlertsTest:UIViewController <UIAlertViewDelegate>
-@end
