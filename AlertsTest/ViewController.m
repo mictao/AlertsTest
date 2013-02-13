@@ -28,7 +28,7 @@
 
 - (void)viewDidAppear:(BOOL)animated{
     
-    self.view.backgroundColor = [UIColor whiteColor];
+    self.view.backgroundColor = [UIColor greenColor];
     
     NSString *message = @"Enter Your Credentials";
     UIAlertView *alertView = [[UIAlertView alloc]
